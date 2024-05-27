@@ -1,6 +1,5 @@
 package org.amangarg.cloudapp.controller;
 
-import jakarta.websocket.server.PathParam;
 import org.amangarg.cloudapp.model.Citizen;
 import org.amangarg.cloudapp.service.CitizenService;
 import org.springframework.beans.factory.annotation.Autowired;
